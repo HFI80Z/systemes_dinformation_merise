@@ -1,7 +1,7 @@
 # Conception des systèmes d'information (Merise) via un site e-commerce
 
 ## Description
-Ce projet est une base de données relationnelle conçue pour gérer les informations des utilisateurs, des produits, des catégories, des adresses et des avis. Elle est construite avec **MySQL** et inclut les modèles conceptuel (MCD), physique (MPD), et logique (MLD).
+Ce projet est une base de données relationnelle conçue pour gérer les informations des utilisateurs, des produits, des catégories, des adresses et des avis d'un site e-commerce. Elle est construite avec **MySQL 8** et inclut les modèles conceptuel (MCD), physique (MPD), et logique (MLD).
 
 ---
 
