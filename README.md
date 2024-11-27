@@ -1,7 +1,7 @@
 # Conception des systèmes d'information (Merise) via un site e-commerce
 
 ## Description
-Ce projet est une base de données relationnelle conçue pour gérer les informations des utilisateurs, des produits, des catégories, des adresses et des avis. Elle est construite avec **MySQL** et inclut les modèles conceptuel (MCD), physique (MPD), et logique (MLD) pour une meilleure compréhension et implémentation.
+Ce projet est une base de données relationnelle conçue pour gérer les informations des utilisateurs, des produits, des catégories, des adresses et des avis. Elle est construite avec **MySQL** et inclut les modèles conceptuel (MCD), physique (MPD), et logique (MLD).
 
 ---
 
@@ -40,3 +40,10 @@ Ce projet est une base de données relationnelle conçue pour gérer les informa
    ```bash
    git clone https://github.com/<votre_nom_utilisateur>/<nom_du_projet>.git
    cd <nom_du_projet>
+   
+2. **Installer MySQL Installer et le configurer** :
+   https://dev.mysql.com/downloads/installer/
+   
+3. **Ouvrir MySQL 8.0 Command Line et effectuer la commande** :
+   ```bash
+   source (chemin du fichier BDD.sql)
