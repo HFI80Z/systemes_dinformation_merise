@@ -13,9 +13,9 @@ Ce projet est une base de données relationnelle conçue pour gérer les informa
 ---
 
 ## Outils utilisés
-- **MySQL 8.0** : Gestionnaire de base de données relationnelle.
-- **MySQL Command Line Client** : Pour exécuter les commandes SQL.
-- **Outils de modélisation** : Pour créer les modèles (MCD, MPD, MLD).
+- **Visual Studio Code**: Pour écrire / Modifier le code SQL.
+- **MySQL 8.0 Command Line Client** : Pour voir que tout fonctionne en affichant les tables.
+- **lucid.app** : Pour créer les modèles (MCD, MPD, MLD).
 - **Git/GitHub** : Gestion du code source et collaboration.
 
 ---
@@ -31,9 +31,8 @@ Ce projet est une base de données relationnelle conçue pour gérer les informa
 ## Installation et configuration
 
 ### Prérequis
-1. Installer **MySQL 8.0** ou une version compatible.
-2. Installer un client Git pour cloner le projet depuis GitHub.
-3. Avoir accès à **MySQL Command Line Client**.
+1. Installer un client Git pour cloner le projet depuis GitHub.
+2. Avoir accès à **MySQL Command Line Client** (nous verrons comment l'avoir par la suite).
 
 ### Étapes pour configurer le projet en local
 1. **Cloner le dépôt GitHub** :
