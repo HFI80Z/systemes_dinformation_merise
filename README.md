@@ -5,14 +5,14 @@ Ce projet est une base de données relationnelle conçue pour gérer les informa
 
 ---
 
-## 📋 Modèles inclus
+## Modèles inclus
 - **Modèle Conceptuel des Données (MCD)** : ![MCD](MCD.png)
 - **Modèle Physique des Données (MPD)** : ![MPD](MPD.png)
 - **Modèle Logique des Données (MLD)** : ![MLD](MLD.png)
 
 ---
 
-## 🛠️ Outils utilisés
+## Outils utilisés
 - **MySQL 8.0** : Gestionnaire de base de données relationnelle.
 - **MySQL Command Line Client** : Pour exécuter les commandes SQL.
 - **Outils de modélisation** : Pour créer les modèles (MCD, MPD, MLD).
@@ -20,7 +20,7 @@ Ce projet est une base de données relationnelle conçue pour gérer les informa
 
 ---
 
-## 📦 Structure des fichiers
+## Structure des fichiers
 - **`BDD.sql`** : Contient le script SQL pour créer la base de données.
 - **`MCD.png`** : Modèle conceptuel des données.
 - **`MPD.png`** : Modèle physique des données.
@@ -28,7 +28,7 @@ Ce projet est une base de données relationnelle conçue pour gérer les informa
 
 ---
 
-## ⚙️ Installation et configuration
+## Installation et configuration
 
 ### Prérequis
 1. Installer **MySQL 8.0** ou une version compatible.
@@ -38,8 +38,8 @@ Ce projet est une base de données relationnelle conçue pour gérer les informa
 ### Étapes pour configurer le projet en local
 1. **Cloner le dépôt GitHub** :
    ```bash
-   git clone https://github.com/<votre_nom_utilisateur>/<nom_du_projet>.git
-   cd <nom_du_projet>
+   git clone https://github.com/HFI80Z/systemes_dinformation_merise
+   cd "Conception des systèmes d'information" 
    
 2. **Installer MySQL Installer et le configurer** :
    https://dev.mysql.com/downloads/installer/
